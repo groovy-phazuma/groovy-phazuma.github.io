@@ -1,12 +1,10 @@
 ---
-permalink: /
+permalink: /about-me/
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
+
 
 東一織 / Iori Azuma
 ------
