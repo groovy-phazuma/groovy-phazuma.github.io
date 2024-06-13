@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-#### Education
+Education
 ------
 * B.S. in Pharmaceutical Sciences, The University of Tokyo, 2021
 * M.S. in Pharmaceutical Sciences, The University of Tokyo, 2023

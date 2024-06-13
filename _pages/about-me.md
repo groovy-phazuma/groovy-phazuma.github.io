@@ -35,10 +35,10 @@ Research Interests
 Publications and Preprints
 ------
 1. **Iori Azuma**, Tadahaya Mizuno, Hiroyuki Kusuhara, "Extraction of diverse gene groups with individual relationship from gene co-expression networks", _arXiv_, 2021
-2. **Iori Azuma**, Tadahaya Mizuno, Hiroyuki Kusuhara, "NRBdMF: A Recommendation Algorithm for Predicting Drug Effects Considering Directionality", _J. Chem. Inf. Model._, 2023
+2. **Iori Azuma**, Tadahaya Mizuno, Hiroyuki Kusuhara, "NRBdMF: A Recommendation Algorithm for Predicting Drug Effects Considering Directionality", _J Chem Inf Model._, 2023
 3. Katsuhisa Morita, Tadahaya Mizuno, **Iori Azuma**, Yutaka Suzuki, Hiroyuki Kusuhara, "Rat Deconvolution as Knowledge Miner for Immune Cell Trafficking from Toxicogenomics Databases", _Toxicol Sci._, 2023
 4. **Iori Azuma**, Tadahaya Mizuno, Katsuhisa Morita, Yutaka Suzuki, Hiroyuki Kusuhara, "Investigation of the usefulness of liver-specific deconvolution method by establishing a liver benchmark dataset", _NAR Genom Bioinform._, 2024
-5. **Iori Azuma**, Tadahaya Mizuno, Hiroyuki Kusuhara, "GLDADec: marker-gene guided LDA modelling for bulk gene expression deconvolution", _bioRxiv under revision_, 2024
+5. **Iori Azuma**, Tadahaya Mizuno, Hiroyuki Kusuhara, "GLDADec: marker-gene guided LDA modelling for bulk gene expression deconvolution", _Brief Bioinform. accepted_, 2024
 6. Takumi Iwasaka, Tadahaya Mizuno, Katsuhisa Morita, **Iori Azuma**, Tomoka Nakagawa, Eri Nakashima, Hiroyuki Kusuhara, "Establishment of an easy-to-construct liver injury mouse model for longitudinal analysis by drinking-water administration of 4,4’-methylenedianiline", _bioRxiv_, 2024
 
 

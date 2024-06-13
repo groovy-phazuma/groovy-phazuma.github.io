@@ -1,6 +1,6 @@
 ---
 title: "[Research] GLDADec: Guided LDA Deconvolution"
-excerpt: "we proposed a Guided LDA Deconvolution method, called GLDADec, to estimate cell type proportions by using marker gene names as partial prior information. <br/><br/> <img src='/images/GLDADec_abstract.png' width=500><br/>"
+excerpt: "We proposed a Guided LDA Deconvolution method, called GLDADec, to estimate cell type proportions by using marker gene names as partial prior information. <br/><br/> <img src='/images/GLDADec_abstract.png' width=500><br/>"
 collection: projects
 ---
 
