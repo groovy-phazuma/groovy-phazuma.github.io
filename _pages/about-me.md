@@ -72,10 +72,11 @@ Other Activities
 ------
 1. 2022 WINGS-LST/SPRING-GX general meeting ("Development of a novel module detection method in a gene coexpression
 network and its application to clinical data"), 6/2022
-2. 日本薬物動態学会第37回年会 学生・若手企業研究者シンポジウム オーガナイザー, 11/202
+2. 日本薬物動態学会第37回年会 学生・若手企業研究者シンポジウム オーガナイザー, 11/2022
 3. 2023 WINGS-LST/SPRING-GX general meeting ("Investigation of deconvolution methods for understanding tissue immune responses"), 6/2023
 4. 第10回　CBI若手の会講演会 ("GLDADec: Guided LDA deconvolution enabled us to identify cell type proportions"), 1/2024
 5. 第11回  CBI若手の会講演会 座長, 3/2024
+6. 2024 WINGS-LST/SPRING-GX general meeting ("GLDADec: marker-gene guided LDA modeling for bulk gene expression deconvolution"), 7/2024
 
 
 Awards / Honors
