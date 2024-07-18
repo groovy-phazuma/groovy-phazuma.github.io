@@ -47,21 +47,22 @@ Conferences
 
 ### International (Poster)
 
-1. Iori Azuma, Tadahaya Mizuno, Hiroyuki Kusuhara, “Investigation of matrix factorization methods employed in drug repositioning”, GPEN2022, A22, University of Minnesota, 10/2022
+1. Iori Azuma, Tadahaya Mizuno, Hiroyuki Kusuhara, "Investigation of matrix factorization methods employed in drug repositioning", GPEN2022, A22, University of Minnesota, 10/2022
+2. Iori Azuma, Tadahaya Mizuno, Hiroyuki Kusuhara, "Marker gene-based deconvolution to reveal the immune response from drug-induced transcriptome", GPEN2024, P30, University of Copenhagen, 7/2024
 
 ### Domestic (Oral)
 
-1. 東 一織, 水野 忠快, 楠原 洋之, “ドラッグリポジショニングに向けた行列分解機械学習推薦システムの層別化と性能評価”, 第37回日本薬剤学会, 2C-06, オンライン開催, 5/2022
-2. 東 一織, 水野 忠快, 楠原 洋之, “A recommendation algorithm for predicting drug effects considering directionality”, CBI学会2022年大会, O1-6, タワーホール船堀, 10/2022
-3. 東 一織, 水野 忠快, 楠原 洋之, “GLDADec: Guided LDA deconvolution enabled us to identify cell type proportions”, CBI学会2023年大会, O1-2, タワーホール船堀, 10/2023
+1. 東 一織, 水野 忠快, 楠原 洋之, "ドラッグリポジショニングに向けた行列分解機械学習推薦システムの層別化と性能評価", 第37回日本薬剤学会, 2C-06, オンライン開催, 5/2022
+2. 東 一織, 水野 忠快, 楠原 洋之, "A recommendation algorithm for predicting drug effects considering directionality", CBI学会2022年大会, O1-6, タワーホール船堀, 10/2022
+3. 東 一織, 水野 忠快, 楠原 洋之, "GLDADec: Guided LDA deconvolution enabled us to identify cell type proportions", CBI学会2023年大会, O1-2, タワーホール船堀, 10/2023
 
 ### Domestic (Poster)
 
-1. 東 一織, 水野 忠快, 楠原 洋之, “Development of novel module detection method in gene co-expression network and its application to clinical data”, 第15回次世代を担う若手のための医療薬科学シンポジウム, P-20, オンライン開催, 10/2021
-2. 東 一織, 水野 忠快, 楠原 洋之, “Comparison of gene co-expression inference methods based on biological validity and diversity”, CBI学会, P07-02, オンライン開催, 10/2021
-3. 東 一織, 水野 忠快, 楠原 洋之, “Development of a novel algorithm for predicting drug effects considering directionality”, 第16回次世代を担う若手のための医療薬科学シンポジウム, P-22, 和歌山県立医科大学, 10/2022
-4. 東 一織, 水野 忠快, 森田 勝久, 楠原 洋之, “大規模毒性データベース利活用に向けたdeconvolution法の検討”, 第50回日本毒性学会学術年会, P1-097S, パシフィコ横浜, 6/2023
-5. 東 一織, 水野 忠快, 楠原 洋之, “Development of a method for estimating cell proportions using semi supervised topic modeling”, 2023年日本バイオインフォマティクス学会年会・第12回生命医薬情報学連合大会, P-44, 柏の葉カンファレンスセンター, 7/2023
+1. 東 一織, 水野 忠快, 楠原 洋之, "Development of novel module detection method in gene co-expression network and its application to clinical data", 第15回次世代を担う若手のための医療薬科学シンポジウム, P-20, オンライン開催, 10/2021
+2. 東 一織, 水野 忠快, 楠原 洋之, "Comparison of gene co-expression inference methods based on biological validity and diversity", CBI学会, P07-02, オンライン開催, 10/2021
+3. 東 一織, 水野 忠快, 楠原 洋之, "Development of a novel algorithm for predicting drug effects considering directionality", 第16回次世代を担う若手のための医療薬科学シンポジウム, P-22, 和歌山県立医科大学, 10/2022
+4. 東 一織, 水野 忠快, 森田 勝久, 楠原 洋之, "大規模毒性データベース利活用に向けたdeconvolution法の検討", 第50回日本毒性学会学術年会, P1-097S, パシフィコ横浜, 6/2023
+5. 東 一織, 水野 忠快, 楠原 洋之, "Development of a method for estimating cell proportions using semi supervised topic modeling", 2023年日本バイオインフォマティクス学会年会・第12回生命医薬情報学連合大会, P-44, 柏の葉カンファレンスセンター, 7/2023
 
 Internships / Employment
 ------
