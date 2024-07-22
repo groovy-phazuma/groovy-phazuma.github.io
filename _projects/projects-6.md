@@ -8,3 +8,5 @@ Inferring cell type proportions from bulk transcriptome data is crucial in immun
 
 
 The source code is available at [https://github.com/mizuno-group/GLDADec](https://github.com/mizuno-group/GLDADec).
+
+Press release is [here](https://www.u-tokyo.ac.jp/focus/ja/press/z0111_00059.html).
