@@ -90,7 +90,7 @@ Awards / Honors
 4. 2023, WINGS-LST/SPRING-GX general meeting, **Logical Design Award**
 5. 2023, CBI学会2023年大会, **優秀口頭発表賞**
 
-SCHOLARSHIPS / GRANTS
+Scholarships / Grants
 ------
 1. 2024/4-2026/3 研究助成 日本学術振興会特別研究員 DC2
 2. 2022年度 WINGS-LST 支援対象学生
