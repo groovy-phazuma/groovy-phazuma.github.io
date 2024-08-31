@@ -89,3 +89,9 @@ Awards / Honors
 3. 2023, 第50回日本毒性学会学術年会, **学生ポスター発表賞**
 4. 2023, WINGS-LST/SPRING-GX general meeting, **Logical Design Award**
 5. 2023, CBI学会2023年大会, **優秀口頭発表賞**
+
+SCHOLARSHIPS / GRANTS
+------
+1. 2024/4-2026/3 研究助成 日本学術振興会特別研究員 DC2
+2. 2022年度 WINGS-LST 支援対象学生
+3. 2021/4-2023/3 JASSO 第一種貸与奨学金 業績優秀者免除（全額免除）
