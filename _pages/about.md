@@ -69,7 +69,8 @@ Conferences
 
 Internships / Employment
 ------
-- Aug 2023 - Sep 2023: Project Internship at [Preferred Networks, Inc.](https://www.preferred.jp/ja/)
+- Aug 2023 - Sep 2023: Internship at [Preferred Networks, Inc.](https://www.preferred.jp/ja/)
+- Aug 2024 - Sep 2024: Internship at [DeNA Co., Ltd.](https://dena.com/jp/)
 
 
 Other Activities
