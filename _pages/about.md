@@ -52,6 +52,7 @@ Conferences
 
 1. Iori Azuma, Tadahaya Mizuno, Hiroyuki Kusuhara, "Investigation of matrix factorization methods employed in drug repositioning", GPEN2022, A22, University of Minnesota, 10/2022
 2. Iori Azuma, Tadahaya Mizuno, Hiroyuki Kusuhara, "Marker gene-based deconvolution to reveal the immune response from drug-induced transcriptome", GPEN2024, P30, University of Copenhagen, 7/2024
+3. Iori Azuma, Tadahaya Mizuno, Hiroyuki Kusuhara, "Understanding cell-cell communication through immune social network", APBJC2024, 23-XIII-5, Okinawa, 10/2024
 
 ### Domestic (Oral)
 
