@@ -8,10 +8,6 @@ author_profile: true
 
 東一織 / Iori Azuma
 ------
-- 東京大学大学院 薬学系研究科 分子薬物動態学教室 博士課程
-- 生命科学技術国際卓越大学院プログラム WINGS-LST
-- 日本学術振興会 特別研究員 (DC2) 
-
 Iori Azuma is a PhD student at the Graduate School of Pharmaceutical Sciences, University of Tokyo, under the supervision of Professor Hiroyuki Kusuhara. His expertise lies in bioinformatics, particularly in transcriptome analysis and the analysis of clinical data. His research focuses on immune responses in hepatic tissue, with the objective of developing data-driven models to improve our understanding of immune responses. He has a strong interest in leveraging computational approaches to investigate biological phenomena and is dedicated to advancing immunological knowledge and its applications in pharmacological responses.
 
 Education
