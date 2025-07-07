@@ -77,6 +77,7 @@ network and its application to clinical data"), 6/2022
 4. 第10回　CBI若手の会講演会 ("GLDADec: Guided LDA deconvolution enabled us to identify cell type proportions"), 1/2024
 5. 第11回  CBI若手の会講演会 座長, 3/2024
 6. 2024 WINGS-LST/SPRING-GX general meeting ("GLDADec: marker-gene guided LDA modeling for bulk gene expression deconvolution"), 7/2024
+7. 第24回　東京大学生命科学シンポジウム, 6/2025
 
 
 Awards / Honors
