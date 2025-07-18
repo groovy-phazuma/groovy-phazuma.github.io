@@ -69,6 +69,7 @@ Internships / Employment
 - Aug 2023 - Sep 2023: Internship at [Preferred Networks, Inc.](https://www.preferred.jp/ja/)
 - Aug 2024 - Sep 2024: Internship at [DeNA Co., Ltd.](https://dena.com/jp/)
 - Oct 2024 - Nov 2024: Internship at [Recruit Co., Ltd.](https://recruit-holdings.com/en/)
+- Jul 2025 - Current: Research Assistant at [National Institute of Advanced Industrial Science and Technology (AIST)](https://www.aist.go.jp/index_en.html)
 
 Other Activities
 ------
@@ -92,6 +93,7 @@ Awards / Honors
 
 Scholarships / Grants
 ------
-1. 2024/4-2026/3 研究助成 日本学術振興会特別研究員 DC2
-2. 2022年度 WINGS-LST 支援対象学生
-3. 2021/4-2023/3 JASSO 第一種貸与奨学金 業績優秀者免除（全額免除）
+1. 令和7年度「覚醒プロジェクト」採択
+2. 2024/4-2026/3 研究助成 日本学術振興会特別研究員 DC2
+3. 2022年度 WINGS-LST 支援対象学生
+4. 2021/4-2023/3 JASSO 第一種貸与奨学金 業績優秀者免除（全額免除）

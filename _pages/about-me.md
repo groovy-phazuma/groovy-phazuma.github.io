@@ -67,6 +67,7 @@ Internships / Employment
 - Aug 2023 - Sep 2023: Internship at [Preferred Networks, Inc.](https://www.preferred.jp/ja/)
 - Aug 2024 - Sep 2024: Internship at [DeNA Co., Ltd.](https://dena.com/jp/)
 - Oct 2024 - Nov 2024: Internship at [Recruit Co., Ltd.](https://recruit-holdings.com/en/)
+- Jul 2025 - Current: Research Assistant at [National Institute of Advanced Industrial Science and Technology (AIST)](https://www.aist.go.jp/index_en.html)
 
 Other Activities
 ------
