@@ -215,6 +215,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  posts2:
+    output: true   
+    permalink: /posts2/:path/
 
 
 # Defaults
@@ -273,7 +276,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -282,7 +285,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _talks
   - scope:
       path: ""
