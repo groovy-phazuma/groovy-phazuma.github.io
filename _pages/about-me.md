@@ -47,6 +47,8 @@ Conferences
 1. Iori Azuma, Tadahaya Mizuno, Hiroyuki Kusuhara, "Investigation of matrix factorization methods employed in drug repositioning", GPEN2022, A22, University of Minnesota, 10/2022
 2. Iori Azuma, Tadahaya Mizuno, Hiroyuki Kusuhara, "Marker gene-based deconvolution to reveal the immune response from drug-induced transcriptome", GPEN2024, P30, University of Copenhagen, 7/2024
 3. Iori Azuma, Tadahaya Mizuno, Hiroyuki Kusuhara, "Understanding cell-cell communication through immune social network", APBJC2024, 23-XIII-5, Okinawa, 10/2024
+4. Iori Azuma, Tadahaya Mizuno, Hiroyuki Kusuhara, "Network-Based modeling of immune cell interactions to elucidate the mechanisms of toxity", EuroTox2025, P03-12, Athens, 10/2025
+
 
 ### Domestic (Oral)
 
@@ -61,6 +63,7 @@ Conferences
 3. 東 一織, 水野 忠快, 楠原 洋之, "Development of a novel algorithm for predicting drug effects considering directionality", 第16回次世代を担う若手のための医療薬科学シンポジウム, P-22, 和歌山県立医科大学, 10/2022
 4. 東 一織, 水野 忠快, 森田 勝久, 楠原 洋之, "大規模毒性データベース利活用に向けたdeconvolution法の検討", 第50回日本毒性学会学術年会, P1-097S, パシフィコ横浜, 6/2023
 5. 東 一織, 水野 忠快, 楠原 洋之, "Development of a method for estimating cell proportions using semi supervised topic modeling", 2023年日本バイオインフォマティクス学会年会・第12回生命医薬情報学連合大会, P-44, 柏の葉カンファレンスセンター, 7/2023
+6. 東 一織, 水野 忠快, 楠原 洋之, "Domain-Adaptive Graph Autoencoding for Cross-Tissue Bulk Transcriptome Deconvolution", 2025年日本バイオインフォマティクス学会年会・第13回生命医薬情報学連合大会, PO-013 名古屋大学豊田講堂, 9/2025
 
 Internships / Employment
 ------
