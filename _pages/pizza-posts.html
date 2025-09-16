@@ -9,15 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-{% assign sorted = site.posts2 | sort: "date" | reverse %}
-{% capture written_year %}'None'{% endcapture %}
+{% assign with_date    = site.posts2 | where_exp: "d", "d.date" %}
+{% assign without_date = site.posts2 | where_exp: "d", "d.date == nil" %}
 
-{% for post in sorted %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+{% assign sorted_with_date    = with_date    | sort: "date" | reverse %}
+{% assign sorted_without_date = without_date | sort: "path" | reverse %}
+
+{% assign sorted_all = sorted_with_date | concat: sorted_without_date %}
+
+{% capture written_year %}'None'{% endcapture %}
+{% for post in sorted_all %}
+  {% capture year %}{{ post.date | default: post.path | date: "%Y" }}{% endcapture %}
   {% if year != written_year %}
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
-
