@@ -53,6 +53,7 @@ Conferences
 
 ### Domestic (Oral)
 
+- 東 一織, 今井賢一郎, 水野 忠快, 瀬々潤, "解釈可能な薬物相互作用予測モデルの開発", 日本薬学会第146年会, 28-22-am07S10, 関西大学, 03/2026
 - 東 一織, 水野 忠快, 楠原 洋之, "Graph-Autoencoder-Based Tissue-Adaptive Representation for Deconvolution", CBI学会2025年大会, O7-2, タワーホール船堀, 10/2025
 - 東 一織, 水野 忠快, 楠原 洋之, "GLDADec: Guided LDA deconvolution enabled us to identify cell type proportions", CBI学会2023年大会, O1-2, タワーホール船堀, 10/2023
 - 東 一織, 水野 忠快, 楠原 洋之, "A recommendation algorithm for predicting drug effects considering directionality", CBI学会2022年大会, O1-6, タワーホール船堀, 10/2022
