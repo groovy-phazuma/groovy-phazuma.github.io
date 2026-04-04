@@ -21,7 +21,7 @@ Work experience
   * Apr.2026 - Current
   * Data Scientist
 * National Institute of Advanced Industrial Science and Technology (AIST) (Tokyo, Japan)
-  * Jul.2025 - Current
+  * Jul.2025 - Mar.2026
   * Research Assistant
 * Recruit Co., Ltd. (Tokyo, Japan)
   * Oct.2024 - Nov.2024
