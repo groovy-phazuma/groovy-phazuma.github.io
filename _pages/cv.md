@@ -11,12 +11,15 @@ redirect_from:
 
 Education
 ------
-* Ph.D in Pharmaceutical Sciences, The University of Tokyo, 2026 (expected)
+* Ph.D in Pharmaceutical Sciences, The University of Tokyo, 2026
 * M.S. in Pharmaceutical Sciences, The University of Tokyo, 2023
 * B.S. in Pharmaceutical Sciences, The University of Tokyo, 2021
 
 Work experience
 ------
+* Daiichi Sankyo Co., Ltd. (Tokyo, Japan)
+  * Apr.2026 - Current
+  * Data Scientist
 * National Institute of Advanced Industrial Science and Technology (AIST) (Tokyo, Japan)
   * Jul.2025 - Current
   * Research Assistant
