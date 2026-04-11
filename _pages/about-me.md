@@ -12,6 +12,7 @@ Iori Azuma is a Data Scientist in the pharmaceutical industry, specializing in t
 
 Education
 ------
+- 2026/3 東京大学大学院 薬学系研究科 博士課程 修了
 - 2023/3 東京大学大学院 薬学系研究科 修士課程 修了
 - 2021/3 東京大学 薬学部 卒業
 - 2017/3 広島大学附属福山高等学校 卒業
