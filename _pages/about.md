@@ -92,6 +92,7 @@ network and its application to clinical data"), 6/2022
 
 Awards / Honors
 ------
+- 2026,日本薬学会第146年会, **学生優秀発表賞（口頭発表の部）**
 - 2023, CBI学会2023年大会, **優秀口頭発表賞**
 - 2023, WINGS-LST/SPRING-GX general meeting, **Logical Design Award**
 - 2023, 第50回日本毒性学会学術年会, **学生ポスター発表賞**
